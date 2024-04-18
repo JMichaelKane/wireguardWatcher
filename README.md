@@ -11,9 +11,12 @@
 
 
 
+
+
 ###other command
 
 wireguardWatcher.exe uninstall
 wireguardWatcher.exe start
 wireguardWatcher.exe stop
 
+after service run properly, you will find logs in C:\\wireguardWatcher.log
